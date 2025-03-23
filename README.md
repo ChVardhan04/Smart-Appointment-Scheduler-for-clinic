@@ -1,7 +1,10 @@
 # Smart-Appointment-Scheduler-for-clinic
 
 Smart Appointment Scheduler with Online Consultation & Payment Integration
-This project is a Flask-based appointment scheduling system designed for clinics and hospitals. It allows patients to book appointments with doctors, supports online consultations via Google Meet, and integrates a payment gateway for virtual consultations.
+This project is a Flask-based appointment scheduling system designed for clinics and hospitals.
+It helps patients easily schedule appointments with doctors based on their specialization and availability. Doctors can approve or reject appointments, manage their schedules, and provide online consultations via Google Meet.
+To enhance the user experience, the system includes email notifications to inform patients about their appointment status and integrates a payment gateway for online consultations. If a patient selects online consultation, the system generates a Google Meet link, which is shared upon doctor approval. Additionally, the system supports AI-powered appointment prioritization, allowing urgent cases to be scheduled earlier based on symptom severity.
+This project is ideal for clinics, hospitals, and telemedicine platforms, providing an efficient and organized approach to appointment scheduling, video consultations, and payment processing.
 
 Features:<br>
 1)User Authentication (Patients & Doctors)<br>
