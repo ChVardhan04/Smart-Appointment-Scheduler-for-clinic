@@ -24,7 +24,7 @@ Video Consultation: Google Meet Link Generation<br>
 Payment Gateway: Razorpay (or PayPal)<br>
 AI for Prioritization: Machine Learning Model (Optional)<br>
 
-Usage Guide<br>
+Usage Guide:<br>
 Patients:<br>
 Register/Login<br>
 Choose a doctor (based on specialization)<br>
