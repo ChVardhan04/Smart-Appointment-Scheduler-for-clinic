@@ -41,20 +41,20 @@ If Online, system generates a Google Meet Link<br>
 Patients get an email notification<br>
 
 
-~Setup & Installation
-Clone the Repository:
-git clone https://github.com/yourusername/smart-appointment-scheduler.git  
-cd smart-appointment-scheduler  
+~Setup & Installation<br>
+Clone the Repository:<br>
+git clone https://github.com/yourusername/smart-appointment-scheduler.git  <br>
+cd smart-appointment-scheduler  <br>
 
-Install Dependencies:
-pip install -r requirements.txt  
+Install Dependencies:<br>
+pip install -r requirements.txt  <br>
 
-Initialize the Database:
-from app import db, app
-with app.app_context():
-    db.create_all()
-    print("Database updated successfully!")
+Initialize the Database:<br>
+from app import db, app<br>
+with app.app_context():<br>
+    db.create_all()<br>
+    print("Database updated successfully!")<br>
 
-Run the Flask App:
-python app.py  
+Run the Flask App:<br>
+python app.py  <br>
 
