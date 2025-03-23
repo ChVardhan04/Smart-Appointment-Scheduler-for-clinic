@@ -1,5 +1,5 @@
 
----
+
 
 # **🩺 Smart Appointment Scheduler for Clinics**  
 
